@@ -1,0 +1,8 @@
+1. In Command Prompt, type -- tracert google.com, to trace how many routes it took to finally reach google server
+
+2. For any Website to run efficiently the following points are important :
+* Location of server
+* How many trips required to send all the files(HTML files + CSS files + Javascript files)
+* Size of the files
+
+
